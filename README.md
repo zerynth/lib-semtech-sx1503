@@ -1,1 +1,0 @@
-# lib-semtech-sx1503
