@@ -3,6 +3,12 @@
     "description": "Driver for Semtech SX1503 GPIO expander",
     "fullname": "lib.semtech.sx1503",
     "git_pointer": "zerynth://zerynth-libs/semtech-sx1503",
+    "info": {
+        "chip_manufacturer": "Semtech",
+        "chip_name": "SX1503",
+        "name": "GPIO expander",
+        "type": "Interface"
+    },
     "keywords": [
         "semtech",
         "GPIO",
@@ -10,12 +16,6 @@
     ],
     "repo": "official",
     "title": "SX1503 GPIO expander",
-    "version": "r2.0.11",
-    "whatsnew": "First Release",
-    "info":{
-        "name":"GPIO expander",
-        "type":"Interface",
-        "chip_name":"SX1503",
-        "chip_manufacturer":"Semtech"
-    }
+    "version": "r2.1.0",
+    "whatsnew": "First Release"
 }
