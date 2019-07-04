@@ -1,0 +1,14 @@
+---
+description: Driver for Semtech SX1503 GPIO expander
+fullname: lib.semtech.sx1503
+info:
+    chip_manufacturer: Semtech
+    chip_name: SX1503
+    name: GPIO expander
+    type: Interface
+keywords:
+- semtech
+- GPIO
+- expander
+title: SX1503 GPIO expander
+...
